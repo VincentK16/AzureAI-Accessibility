@@ -1,5 +1,8 @@
 # Accessibility AI Web App
 
+![image](https://github.com/user-attachments/assets/ea5df7e2-91f9-494b-855c-006ed153c5fc)
+
+
 This Streamlit web app provides accessible AI-powered features for users, including:
 - Text-to-speech in multiple languages and voices (Azure AI Speech)
 - Speech-to-text (voice input)
@@ -22,8 +25,8 @@ This Streamlit web app provides accessible AI-powered features for users, includ
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repo-url>
-cd AI
+git clone https://github.com/VincentK16/feeltheworldwithAI.git
+cd feeltheworldwithA
 ```
 
 ### 2. Install dependencies
@@ -51,14 +54,6 @@ streamlit run app.py
 
 The app will open in your browser.
 
-## requirements.txt
-
-```
-# filepath: c:\Users\vincentkok\OneDrive - Microsoft\Volunteering\Accessibility Hackathon\AI\requirements.txt
-streamlit
-azure-cognitiveservices-speech
-requests
-```
 
 ## Usage
 
